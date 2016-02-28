@@ -1,2 +1,2 @@
-In this project I have clustered the companies based on historical data for a duration of one year (2009/2010) provided by S&P500 (http://pages.swcp.com/stocks/), using SPARK MLlib K-mean clustering. 
+In this project I have clustered the companies based on historical data for a duration of one year (2009/2010) provided by S&P500 (http://pages.swcp.com/stocks/), using SPARK MLlib K-means clustering. 
 This project involved in cleaning and processing data to establishing vectors which are used to form cluster. Once clusters are formed, cluster density is measured and companies falling in high density cluster are pulled out
